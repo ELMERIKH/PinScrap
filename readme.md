@@ -1,4 +1,4 @@
-Pintrest API scraper
+API to scrape Pinterest Images
 
 endpoints :
 
